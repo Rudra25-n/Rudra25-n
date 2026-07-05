@@ -23,7 +23,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 **[AI Ticket Automation Agent](https://github.com/Rudra25-n/ai-ticket-automation-agent)** — A local AI-powered support ticket triage agent that categorizes tickets, flags urgency, and drafts replies using open-source transformer models. No API key required.
 

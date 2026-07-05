@@ -27,7 +27,5 @@
 
 **[AI Ticket Automation Agent](https://github.com/Rudra25-n/ai-ticket-automation-agent)** — A local AI-powered support ticket triage agent that categorizes tickets, flags urgency, and drafts replies using open-source transformer models. No API key required.
 
-**[C++ GUI Calculator](https://github.com/Rudra25-n/Guicalculator)** — A desktop calculator app built in C++, handling complex arithmetic operations with a custom-built GUI and event-driven input handling.
-
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Rudra25-n&color=blue)

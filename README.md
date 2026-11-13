@@ -26,6 +26,7 @@
 ## 📌 Featured Projects
 
 **[AI Ticket Automation Agent](https://github.com/Rudra25-n/ai-ticket-automation-agent)** — A local AI-powered support ticket triage agent that categorizes tickets, flags urgency, and drafts replies using open-source transformer models. No API key required.
-**[ROS 2 Waypoint Navigator](https://github.com/Rudra25-n/waypoint_navigator) — A ROS 2 node that drives a simulated TurtleBot3 through waypoints with the Nav2 stack, with failure detection and per-waypoint timing. [Demo video](https://youtu.be/AupuNN1-x7s).
+[ROS 2 Waypoint Navigator](https://github.com/Rudra25-n/waypoint_navigator) — A ROS 2 node that drives a simulated TurtleBot3 through waypoints with the Nav2 stack, with failure detection and per-waypoint timing. [Demo video](https://youtu.be/AupuNN1-x7s).
+
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=Rudra25-n&color=blue)
